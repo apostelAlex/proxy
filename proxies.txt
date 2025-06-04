@@ -1,0 +1,4 @@
+# Example proxies
+http://user:pass@192.0.2.1:8000
+socks5://192.0.2.2:1080
+http://192.0.2.3:8080
